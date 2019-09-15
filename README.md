@@ -11,8 +11,9 @@
         google()
         jcenter()
     }
+    ![image](导入安卓文件截图/3.改后的build.gradle文件.PNG)
     记得加入google(),否则加载文件会失败
-     ![image](导入安卓文件截图/3.改后的build.gradle文件.PNG)
+    
   b.修改gradle-wrapper.properties文件内容
  ![image](导入安卓文件截图/2.原始的gradle-wrapper.properties文件.PNG)
  
