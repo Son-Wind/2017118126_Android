@@ -1,27 +1,28 @@
 # 2017118126_Android
-1.½â¾öÔØÈëÊ±°æ±¾ÎÊÌâ:
-  a.ĞŞ¸Äbuild.gradleÎÄ¼şµÄÄÚÈİ
+1.è§£å†³è½½å…¥æ—¶ç‰ˆæœ¬é—®é¢˜:
+![image](å¯¼å…¥å®‰å“æ–‡ä»¶æˆªå›¾/1.åŸå§‹çš„build.gradleæ–‡ä»¶.PNG)
+  a.ä¿®æ”¹build.gradleæ–‡ä»¶çš„å†…å®¹
 	dependencies {
         classpath 'com.android.tools.build:gradle:3.5.0'
     }
-    ¼ÇµÃ°ÑclasspathĞŞ¸ÄÎª×Ô¼º±¾µØµÄ°æ±¾,·ñÔò»áÄ¬ÈÏ´ÓÔ¶¶ËÏÂÔØ
+    è®°å¾—æŠŠclasspathä¿®æ”¹ä¸ºè‡ªå·±æœ¬åœ°çš„ç‰ˆæœ¬,å¦åˆ™ä¼šé»˜è®¤ä»è¿œç«¯ä¸‹è½½
     repositories {
         google()
         jcenter()
     }
-    ¼ÇµÃ¼ÓÈëgoogle(),·ñÔò¼ÓÔØÎÄ¼ş»áÊ§°Ü
-  b.ĞŞ¸ÄºÍgradle-wrapper.propertiesÎÄ¼şÄÚÈİ
+    è®°å¾—åŠ å…¥google(),å¦åˆ™åŠ è½½æ–‡ä»¶ä¼šå¤±è´¥
+  b.ä¿®æ”¹å’Œgradle-wrapper.propertiesæ–‡ä»¶å†…å®¹
    distributionUrl=https\://services.gradle.org/distributions/gradle-5.4.1-all.zip
-   ĞŞ¸ÄÎª±¾µØµÄ°æ±¾
-2.SourceTreeÍÆËÍÊ§°ÜÎÊÌâ:
-  Ô­Òò:Ô¶³Ì¿âºÍ±¾µØ¿â´æÔÚ²îÒì
-  ½â¾ö·½·¨:a. Í¨¹ıÃüÁîĞĞ git pull origin master
-  ½á¹û:ÃüÁîĞĞ½«»á±¨´í
+   ä¿®æ”¹ä¸ºæœ¬åœ°çš„ç‰ˆæœ¬
+2.SourceTreeæ¨é€å¤±è´¥é—®é¢˜:
+  åŸå› :è¿œç¨‹åº“å’Œæœ¬åœ°åº“å­˜åœ¨å·®å¼‚
+  è§£å†³æ–¹æ³•:a. é€šè¿‡å‘½ä»¤è¡Œ git pull origin master
+  ç»“æœ:å‘½ä»¤è¡Œå°†ä¼šæŠ¥é”™
   From https://github.com/Son-Wind/2017118126_Android
   * branch            master     -> FETCH_HEAD
    fatal: refusing to merge unrelated histories
 
-   ½â¾ö·½·¨:b. Í¨¹ıÃüÁîĞĞ:git pull origin master --allow-unrelated-histories
-   ÕâÊ±¾Í½øĞĞÁË±¾µØ¿âÓëÔ¶³Ì¿âµÄºÏ²¢.ÅÅ³ı²îÒì
+   è§£å†³æ–¹æ³•:b. é€šè¿‡å‘½ä»¤è¡Œ:git pull origin master --allow-unrelated-histories
+   è¿™æ—¶å°±è¿›è¡Œäº†æœ¬åœ°åº“ä¸è¿œç¨‹åº“çš„åˆå¹¶.æ’é™¤å·®å¼‚
 
-   ×îºóÔÚsourceTreeµã»÷Ìá½»¾ÍÄÜÍêÃÀÔËĞĞ
+   æœ€ååœ¨sourceTreeç‚¹å‡»æäº¤å°±èƒ½å®Œç¾è¿è¡Œ
