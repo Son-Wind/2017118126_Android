@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hello1">
+
+
+    <Button
+        android:id="@+id/btToHello1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#CDDC39"
+        android:text="ToHello1" />
+
+    <Button
+        android:id="@+id/btToHello2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#CDDC39"
+        android:text="ToHello2" />
+
+    <Button
+        android:id="@+id/btToHello3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#CDDC39"
+        android:text="ToHello3" />
+
+</LinearLayout>
