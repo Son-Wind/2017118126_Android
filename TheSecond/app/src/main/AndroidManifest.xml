@@ -12,7 +12,7 @@
         <activity android:name=".Hello3"></activity>
         <activity android:name=".Hello2" />
         <activity android:name=".Hello1"
-            android:launchMode="singleTop">
+            android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
