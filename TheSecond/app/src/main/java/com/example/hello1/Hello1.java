@@ -3,6 +3,7 @@ package com.example.hello1;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -28,6 +29,11 @@ public class Hello1 extends AppCompatActivity implements View.OnClickListener {
         mObjCount=ObjCount;
         setTitle("Hello1");
         Log.d("Hello1"+"-"+mObjCount, "onCreate: ");
+
+        /**
+         *
+         */
+
 
     }
 
@@ -68,16 +74,58 @@ public class Hello1 extends AppCompatActivity implements View.OnClickListener {
         Intent intent;
 
         if(v.getId()==R.id.btToHello1){
-            intent=new Intent(Hello1.this,Hello1.class);
+            /**
+             * 隐式调用(网站)
+             */
+            intent=new Intent(Intent.ACTION_VIEW);
+            intent.setData(Uri.parse("http://www.hstc.edu.cn"));
             startActivity(intent);
+
+            /**
+             * 显示调用
+             * intent=new Intent(Hello1.this,Hello1.class);
+             * startActivity(intent);
+             */
+
         }
         if(v.getId()==R.id.btToHello2){
-            intent=new Intent(Hello1.this,Hello2.class);
+            /**
+             * 隐式调用(拨号)
+             */
+            intent=new Intent(Intent.ACTION_DIAL);
+            intent.setData(Uri.parse("tel:10086"));
             startActivity(intent);
+
+
+            /**
+             * 显示调用
+             * intent=new Intent(Hello1.this,Hello2.class);
+             *  startActivity(intent);
+             */
+
         }
         if(v.getId()==R.id.btToHello3){
-            intent=new Intent(Hello1.this,Hello3.class);
+
+            /**
+             * 经纬度
+             */
+            intent=new Intent(Intent.ACTION_VIEW);
+            intent.setData(Uri.parse("geo:"));
             startActivity(intent);
+
+
+            /**
+             * 显示调用
+             */
+//            intent=new Intent(Hello1.this,Hello3.class);
+//            startActivity(intent);
+            /**
+             * 隐式调用（url,拨号，经纬度)
+             *  String string1="com.exammple.helloworld1tohello3";
+             *  Intent intent1=new Intent(string1);
+             *  startActivity(intent1);
+             */
+
         }
     }
     public void settupClicks(){

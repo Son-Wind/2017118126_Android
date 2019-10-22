@@ -18,6 +18,14 @@ public class Hello3 extends AppCompatActivity implements View.OnClickListener {
         setContentView(R.layout.activity_hello3);
         setTitle("Hello3");
         settupClicks();
+        /**
+         * 课上加的
+         */
+        //获得意图
+        Intent intent=getIntent();
+        if(intent==null){
+            Log.d(TAG, "无法加载该意图 ");
+        }
         Log.d(TAG, "onCreate: ");
     }
 
