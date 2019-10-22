@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\4f37a040d795d0eef135b10b20545e3f\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:1-33:12
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:5:5-31:19
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:5:5-31:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:5-89
@@ -59,45 +59,45 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\le
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.hello1.Hello3
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:name
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:12:19-41
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:12:19-41
 activity#com.example.hello1.Hello2
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:20:9-22:20
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:20:9-22:20
 	android:name
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:20:19-41
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:20:19-41
 activity#com.example.hello1.Hello1
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:23:9-30:20
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:23:9-30:20
 	android:launchMode
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:24:13-42
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:24:13-42
 	android:name
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:23:19-41
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:23:19-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:26:17-69
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:26:25-66
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:28:17-77
+ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml:28:27-74
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml:28:27-74
 uses-sdk
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\f6a183f8595ca34f3d5cc99d1f8bc322\appcompat-1.0.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
@@ -152,13 +152,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lenovo\.gradle\cach
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		ADDED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Git\Homework\TheSecond\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		ADDED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Git\Homework\TheFourth\app\src\main\AndroidManifest.xml
