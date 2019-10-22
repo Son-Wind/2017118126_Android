@@ -15,7 +15,7 @@
 
 二.遇到的问题
 1.解决载入时版本问题:
-  a.修改build.gradle文件的内容
+  a.修改build.gradle文件的内容(注意事项)
   ![image](导入安卓文件截图/1.原始的build.gradle文件.PNG)
   ![image](导入安卓文件截图/3.改后的build.gradle文件.PNG)
   
