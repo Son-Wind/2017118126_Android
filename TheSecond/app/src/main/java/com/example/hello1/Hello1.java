@@ -74,50 +74,43 @@ public class Hello1 extends AppCompatActivity implements View.OnClickListener {
         Intent intent;
 
         if(v.getId()==R.id.btToHello1){
-            /**
-             * 隐式调用(网站)
-             */
-            intent=new Intent(Intent.ACTION_VIEW);
-            intent.setData(Uri.parse("http://www.hstc.edu.cn"));
+            // 显示调用
+            intent=new Intent(Hello1.this,Hello1.class);
             startActivity(intent);
-
-            /**
-             * 显示调用
-             * intent=new Intent(Hello1.this,Hello1.class);
-             * startActivity(intent);
-             */
+//            /**
+//             * 隐式调用(网站)
+//             */
+//            intent=new Intent(Intent.ACTION_VIEW);
+//            intent.setData(Uri.parse("http://www.hstc.edu.cn"));
+//            startActivity(intent);
 
         }
         if(v.getId()==R.id.btToHello2){
-            /**
-             * 隐式调用(拨号)
-             */
-            intent=new Intent(Intent.ACTION_DIAL);
-            intent.setData(Uri.parse("tel:10086"));
-            startActivity(intent);
+             //显示调用
+             intent=new Intent(Hello1.this,Hello2.class);
+             startActivity(intent);
 
+             /**
+//             * 隐式调用(拨号)
+//             */
+//            intent=new Intent(Intent.ACTION_DIAL);
+//            intent.setData(Uri.parse("tel:10086"));
+//            startActivity(intent);
 
-            /**
-             * 显示调用
-             * intent=new Intent(Hello1.this,Hello2.class);
-             *  startActivity(intent);
-             */
 
         }
         if(v.getId()==R.id.btToHello3){
-
-            /**
-             * 经纬度
-             */
-            intent=new Intent(Intent.ACTION_VIEW);
-            intent.setData(Uri.parse("geo:"));
-            startActivity(intent);
-
-
             /**
              * 显示调用
              */
-//            intent=new Intent(Hello1.this,Hello3.class);
+            intent=new Intent(Hello1.this,Hello3.class);
+            startActivity(intent);
+            
+            /**
+//             * 经纬度
+//             */
+//            intent=new Intent(Intent.ACTION_VIEW);
+//            intent.setData(Uri.parse("geo:"));
 //            startActivity(intent);
             /**
              * 隐式调用（url,拨号，经纬度)
