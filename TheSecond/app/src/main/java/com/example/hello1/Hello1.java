@@ -105,7 +105,7 @@ public class Hello1 extends AppCompatActivity implements View.OnClickListener {
              */
             intent=new Intent(Hello1.this,Hello3.class);
             startActivity(intent);
-            
+
             /**
 //             * 经纬度
 //             */
