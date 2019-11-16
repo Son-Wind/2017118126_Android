@@ -7,9 +7,9 @@
 
     <TextView
         android:id="@+id/fruit_No"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_margin="3dp"
-        android:layout_width="10dp"
-        android:layout_height="15dp"
 
         />
 
@@ -26,5 +26,45 @@
         android:layout_gravity="left"
         android:layout_marginTop="10dp"
         />
+
+    <Button
+        android:id="@+id/bt_Add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center_horizontal"
+        android:text="Add"
+        />
+
+    <Button
+        android:id="@+id/bt_Delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center_horizontal"
+        android:text="Delete"
+        />
+
+    <Button
+        android:id="@+id/bt_Update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center_horizontal"
+        android:text="Update"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center_horizontal"
+        android:imeOptions="actionDone"
+        android:singleLine="true"
+        />
+
+
 
 </LinearLayout>
