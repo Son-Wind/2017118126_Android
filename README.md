@@ -1,2 +1,3 @@
 # 2017118126_Android
 了解掌握Android的基础知识
+第一次作业:导入郭林代码时可能遇到的版本问题以及SourceTree提交到GitHub的流程
