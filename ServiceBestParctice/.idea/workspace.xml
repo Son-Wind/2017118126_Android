@@ -66,8 +66,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="491" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="342" />
     <option name="y" value="52" />
     <option name="width" value="1410" />
     <option name="height" value="965" />
@@ -134,10 +134,11 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5X_API_24" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-12-19T01:54:33.735Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/Andiord/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FilePersistence" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
